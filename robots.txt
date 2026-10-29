@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://porthuenemewaterdamagepros.com/sitemap.xml
